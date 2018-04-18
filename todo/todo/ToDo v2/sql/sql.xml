@@ -1,0 +1,8 @@
+<xml>
+	<statement>
+		CREATE TABLE TASKS ( id INTEGER, description VARCHAR(256), complete INTEGER )
+	</statement>
+	<statement>
+		CREATE SEQUENCE taskid
+	</statement>
+</xml>
